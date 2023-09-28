@@ -1,0 +1,18 @@
+body{
+      background-color: black;
+      color:white;
+    }
+.mountain-pic{
+    width:100%;
+    border:5px solid white;
+}
+h1{
+    font-size:3em;
+}
+.main-body{
+    text-align: center;
+    margin-left:25%;
+    margin-right: 25%;
+    font-family: 'Libre Baskerville', serif;
+    margin-top:50px;
+}
